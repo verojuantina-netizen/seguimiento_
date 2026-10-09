@@ -1,0 +1,11 @@
+Comprobación de acceso - 2026-10-09 01:28:05
+Sitio: https://www.hcd25demayo.gob.ar
+
+Portada: accesible (código 200, 81629 bytes, 1.1 s).
+robots.txt: no publicado (código 404). Se aplican igualmente pausas de 4 s.
+
+RESULTADO: ACCESO CORRECTO
+
+Expedientes leídos: 5 de 5 intentados
+Verificados: 5
+Errores registrados: 0
